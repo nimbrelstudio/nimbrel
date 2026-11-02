@@ -1,0 +1,112 @@
+{
+ "settings": {
+  "pinterest": "nimbrelstudio",
+  "email": "studionimbrel@gmail.com",
+  "signupUrl": "",
+  "signupKey": ""
+ },
+ "text": {
+  "home.h1": "Everything here is free.",
+  "home.lead": "Simple planners and templates for creators, students and anyone with a new year to organize. Download them, print them, use them. No payment and no account.",
+  "home.cta": "Browse the free printables",
+  "home.pin": "Follow on Pinterest",
+  "door.title": "January 2027",
+  "door.key": "Browse the free printables",
+  "home.new": "Newest printables",
+  "home.new.p": "Every one is free to download. No account and no email needed.",
+  "home.more": "Browse everything",
+  "band.h2": "Free, and made with care",
+  "about.h2": "A small studio that gives its printables away",
+  "about.p1": "Nimbrel Studio designs printables and templates, and everything on this site is free. The rule is that a page should be easy to look at and obvious to use, so the type is big, the space is generous and every page has one job.",
+  "about.p2": "The logo is a doorway with a spark in it. Every printable tries to be that: an easy place to walk in and start.",
+  "faq.h2": "Questions",
+  "signup.h2": "Get new printables first",
+  "signup.p": "Join the email list and we’ll tell you when something new is ready. It’s free, we won’t spam you, and you can leave any time.",
+  "signup.consent": "Yes, email me when new printables are ready.",
+  "signup.btn": "Join the list",
+  "nav.free": "Free printables",
+  "nav.about": "About",
+  "foot.privacy": "Privacy",
+  "free.h1": "Browse free printables",
+  "free.lead": "Every printable here is free to download. No account and no email needed.",
+  "design.soon": "This one is still being finished. It will be free to download right here, with no sign-up, as soon as it’s ready.",
+  "design.dl": "Download the free PDF",
+  "design.note": "PDF for US Letter paper. No email needed.",
+  "design.more": "More free printables",
+  "privacy.h1": "Privacy",
+  "privacy.p1": "This site does not use ads or tracking cookies, and downloads need no account or email address.",
+  "privacy.p2": "It is hosted on GitHub Pages, which may log basic visit data such as IP addresses under its own privacy policy.",
+  "privacy.p3": "If you join the email list, we store your address and use it only to tell you about new printables. Ask us to remove it at any time and we will.",
+  "privacy.contact": "Questions? Write to",
+  "404.h1": "That page isn’t here.",
+  "404.lead": "The link may be old or mistyped. The free printables are a good place to start."
+ },
+ "labels": {
+  "home.h1": "Home page: main headline",
+  "home.lead": "Home page: intro text",
+  "home.cta": "Home page: main button",
+  "home.pin": "Home page: Pinterest button",
+  "door.title": "Calendar picture: title",
+  "door.key": "Calendar picture: label",
+  "home.new": "Home page: printables heading",
+  "home.new.p": "Home page: printables text",
+  "home.more": "Home page: browse button",
+  "band.h2": "Home page: dark section heading",
+  "about.h2": "About: heading",
+  "about.p1": "About: first paragraph",
+  "about.p2": "About: second paragraph",
+  "faq.h2": "Questions: heading",
+  "signup.h2": "Email signup: heading",
+  "signup.p": "Email signup: text",
+  "signup.consent": "Email signup: checkbox text",
+  "signup.btn": "Email signup: button",
+  "nav.free": "Menu: Free printables link",
+  "nav.about": "Menu: About link",
+  "foot.privacy": "Footer: Privacy link",
+  "free.h1": "Free page: headline",
+  "free.lead": "Free page: intro text",
+  "design.soon": "Printable page: coming-soon text",
+  "design.dl": "Printable page: download button",
+  "design.note": "Printable page: note under download",
+  "design.more": "Printable page: more heading",
+  "privacy.h1": "Privacy page: headline",
+  "privacy.p1": "Privacy page: first paragraph",
+  "privacy.p2": "Privacy page: second paragraph",
+  "privacy.p3": "Privacy page: email list paragraph",
+  "privacy.contact": "Privacy page: contact line",
+  "404.h1": "Not-found page: headline",
+  "404.lead": "Not-found page: text"
+ },
+ "faq": [
+  {
+   "q": "Is anything here paid?",
+   "a": "No. Every printable on this site is free to download and print."
+  },
+  {
+   "q": "Do I need an account or an email address?",
+   "a": "No. Download the PDF and you’re done."
+  },
+  {
+   "q": "What paper do I need?",
+   "a": "Everything is sized for US Letter. On A4, choose “Fit to page” in your print settings and it will print cleanly."
+  },
+  {
+   "q": "Can I share the files?",
+   "a": "They are for your own use. Please don’t resell or re-upload them. Link to the page instead and your friends can download their own copy."
+  }
+ ],
+ "principles": [
+  {
+   "t": "Free, start to finish",
+   "d": "No payment, no account and no email needed to download. You get the PDF and you’re done."
+  },
+  {
+   "t": "One page, one job",
+   "d": "Each printable does one thing, like planning the year, sketching a video or tracking a result. There is nothing to learn before you start."
+  },
+  {
+   "t": "Made for a home printer",
+   "d": "Everything fits US Letter paper and a regular printer. Color is a bonus, never a requirement."
+  }
+ ]
+}
