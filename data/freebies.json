@@ -4,7 +4,9 @@
   "title": "2027 Content Calendar",
   "summary": "A year view for ideas, deadlines and a page for every month.",
   "category": "Planners",
-  "status": "soon",
-  "added": "2026-11-02"
+  "status": "live",
+  "added": "2026-11-02",
+  "file": true,
+  "preview": true
  }
 ]
